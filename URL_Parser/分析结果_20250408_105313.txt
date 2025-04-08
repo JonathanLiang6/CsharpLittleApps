@@ -1,0 +1,20 @@
+开始分析内容...
+分析完成！共找到 6 个手机号码和 8 个邮箱地址。
+
+【手机号码】
+13812345678
+13987654321
+15012345678
+18123456789
+13598765432
+15888888888
+
+【邮箱地址】
+support@example.com
+business@company.com
+zhang@example.com
+li.engineer@company.com
+wang.manager@example.com
+user-name@domain.com
+user+test@example.com
+first.last@company.com
